@@ -11,9 +11,9 @@ that would be mentioned in this file.
 
 Start with the following axioms:
 
-1. Every "thing" in the universe is "connected".
+1. Every "thing" in the universe is "connected"
 2. Every "thing" in the universe is in constant "flux" (the only thing
-that is constant in the universe is change).
+that is constant in the universe is change)
 
 ## Theory of consciousness
 
