@@ -1,6 +1,6 @@
 # consciousness/README.md
 
-This repository contains my (Doron Tal's) thoughts toward a theory of
+This repository contains Doron Tal's thoughts toward a theory of
 consciousness.
 
 For a start, all thoughts, ideas, arguments are in this `README.md`
