@@ -42,4 +42,6 @@ terms we need to define more clearly are:
 
 ### Implications of this theory
 
-* 
+* A major implication is that anything you draw a circle around: a
+  human, a stone, a circle that encompasses part of the human and part
+  of a stone - is conscious. Everything is conscious.
