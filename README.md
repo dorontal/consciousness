@@ -45,7 +45,7 @@ terms we need to define more clearly are:
 
 * "relationship
 
-### Implications of this theory
+### Implications
 
 * One implication is that there are numerous such "circles" that can
   be drawn.  Any combination/collection of things in the universe is
@@ -67,3 +67,8 @@ terms we need to define more clearly are:
 * Since everything is in flux, what's inside the circle is in
   flux. What's outside of it is in flux also. So the circle itself is
   in flux.
+
+* Whenever something outside of the circle changes, it causes a change
+  in every other thing, therefore, it causes a change in what's inside
+  the circle. This is the beginning of the definition or explanation
+  of "relationship".
