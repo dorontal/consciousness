@@ -21,14 +21,25 @@ Now draw a circle around any collection of "things" in the universe.
 For example, take one collection of things to be the skin of a human
 and everything contained within it. Call that collection a "human".
 
-Consciousness of a human, then, is the consciousness of what's inside this circle.
+Consciousness of a human, then, is the consciousness of what's inside
+this circle.
 
-Consciousness is "relationship" - between what's inside the circle and what's outside of it.
+### The crux
 
-Done!
+Consciousness is "relationship" - between what's inside the circle and
+what's outside of it.
 
-Now to defining some of those abstract terms more clearly. The terms we need to define more clearly are:
+Done. Well, almost.
+
+### Further work needed
+
+Now we need to define some of those abstract terms more clearly. The
+terms we need to define more clearly are:
 * "thing"
 * "connected"
 * "flux" or "change"
 * "relationship
+
+### Implications of this theory
+
+* 
