@@ -42,6 +42,17 @@ terms we need to define more clearly are:
 
 ### Implications of this theory
 
+* One implication is that there are numerous circles that can be drawn
+  - any combination of things in the universe is another
+  circle. Therefore, if there are infinitely many things in the
+  universe, there are infinitely many circles.
+
+* If there are finitely many things in the universe, the number of
+  collections you can form out of them is still a much larger number
+  than the number of things.
+
 * A major implication is that anything you draw a circle around: a
   human, a stone, a circle that encompasses part of the human and part
   of a stone - is conscious. Everything is conscious.
+
+* Another implication is that our concept of a human is just a concept, a circle
