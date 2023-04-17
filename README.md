@@ -12,8 +12,9 @@ mentioned in this file.
 Start with the following axioms:
 
 1. Every "thing" in the universe is "connected"
+
 2. Every "thing" in the universe is in constant "flux" (the only thing
-that is constant in the universe is change)
+   that is constant in the universe is change)
 
 ## Theory of consciousness
 
@@ -35,9 +36,13 @@ Done. Well, almost.
 
 Now we need to define some of those abstract terms more clearly. The
 terms we need to define more clearly are:
+
 * "thing"
+
 * "connected"
+
 * "flux" or "change"
+
 * "relationship
 
 ### Implications of this theory
