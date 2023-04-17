@@ -60,4 +60,6 @@ terms we need to define more clearly are:
   human, a stone, a circle that encompasses part of the human and part
   of a stone - is conscious. Everything is conscious.
 
-* Another implication is that our concept of a human is just a concept, a circle
+* Another implication is that our concept of a human is just a
+  concept, just one of the numeous (possibly infinite) many circles we
+  can draw.
