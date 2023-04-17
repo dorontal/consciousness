@@ -43,7 +43,7 @@ terms we need to define more clearly are:
 
 * "connected"
 
-* "flux" or "change"
+* "flux" (or "change")
 
 * "relationship
 
