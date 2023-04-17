@@ -3,9 +3,9 @@
 This repository contains Doron Tal's thoughts toward a theory of
 consciousness.
 
-For a start, all thoughts, ideas, arguments are in this `README.md`
-file. If need be, this file will be forked off into other files and
-that would be mentioned in this file.
+For a start, all thoughts, ideas, arguments are in this file. If need
+be, this file will be forked off into other files and that would be
+mentioned in this file.
 
 ## Axioms
 
