@@ -7,16 +7,14 @@ For a start, all thoughts, ideas, arguments are in this file. If need
 be, this file will be forked off into other files and that would be
 mentioned in this file.
 
-## Axioms
+## Theory of consciousness
 
-Start with the following axioms:
+We start with the following axioms:
 
 1. Every "thing" in the universe is "connected"
 
 2. Every "thing" in the universe is in constant "flux" (the only thing
    that is constant in the universe is change)
-
-## Theory of consciousness
 
 Now draw a circle around any collection of "things" in the universe.
 For example, take one collection of things to be the skin of a human
@@ -45,7 +43,7 @@ terms we need to define more clearly are:
 
 * "relationship
 
-### Implications
+### Implications 
 
 * One implication is that there are numerous such "circles" that can
   be drawn.  Any combination/collection of things in the universe is
