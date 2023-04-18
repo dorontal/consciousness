@@ -82,3 +82,12 @@ terms we need to define more clearly are:
 * One question that arises is whether there are "levels" of
   consciousness, perhaps related to levels of complexity, or
   organization, or order in a system.
+
+
+### Problems with this theory
+
+* **Big problem:** So far, this theory does not explain the difference
+  between conscious and not conscious, e.g, the difference between
+  consciousness being present in a human who is awake and absent in a
+  human who is asleep. If everything is conscious, okay, but what
+  makes something not conscious?
