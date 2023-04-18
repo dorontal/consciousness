@@ -2,8 +2,7 @@
 
 This file contains thoughts toward a theory of consciousness.
 
-For a start, all thoughts, ideas, arguments are in this one
-`README.md` file.
+For a start, all thoughts, ideas, arguments are in this file.
 
 ## Theory of consciousness
 
