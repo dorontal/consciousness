@@ -78,8 +78,8 @@ terms we need to define more clearly are:
   human at another point in time. In reality, there is no "self" that
   remains the same for any human or any thing in the universe.
 
-* We may feel that we have a non-changing self, but that is an
-  illusion.
+* We may feel that we have a non-changing self, but that would have to
+  be an illusion.
 
 * Consciousness is a process of "relationship" that is also in flux.
 
