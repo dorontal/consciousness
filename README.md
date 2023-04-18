@@ -65,15 +65,15 @@ terms we need to define more clearly are:
   conscious, then there is nothing special about the consciousness of
   a human, or about the concept of a human - that's just one circle.
 
-* Since everything is in flux, what's inside the circle is in
-  flux and what's outside of it is in flux. The circle itself is
-  also is in flux.
-
 * Due to the connectedness axiom, whenever some thing changes, it
   causes a change in every other thing. So whenever something outside
   of the circle changes, it causes a change in that which is inside
   the circle.  This is the beginning of the definition or explanation
   of "relationship".
+
+* Since everything is in flux, what's inside the circle is in
+  flux and what's outside of it is in flux. The circle itself is
+  also in flux.
 
 * One question that arises is whether there are "levels" of
   consciousness, perhaps related to levels of complexity, or
