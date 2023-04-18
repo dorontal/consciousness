@@ -1,10 +1,9 @@
 # consciousness/README.md
 
-This repository contains thoughts toward a theory of consciousness.
+This file contains thoughts toward a theory of consciousness.
 
-For a start, all thoughts, ideas, arguments are to be written in this
-file. If need be, this file will be forked off into other files and
-that would be mentioned in this file.
+For a start, all thoughts, ideas, arguments are in this one
+`README.md` file.
 
 ## Theory of consciousness
 
