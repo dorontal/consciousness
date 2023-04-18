@@ -42,7 +42,7 @@ terms we need to define more clearly are:
 
 * "relationship
 
-### Implications
+### Implications and related notes
 
 * There are numerous such "circles" that can be drawn.  Any
   combination/collection of things in the universe is just another
