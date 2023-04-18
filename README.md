@@ -11,7 +11,7 @@ We start with the following axioms:
 1. Every "thing" in the universe is "connected"
 
 2. Every "thing" in the universe is in constant "flux" (the only thing
-   that is constant in the universe is this "flux", or "change")
+   that is constant in the universe is "flux", or "change")
 
 Now draw a "circle" around any collection of "things" in the universe.
 Here, a "circle" denotes any collection of things. Think of Venn
