@@ -71,9 +71,17 @@ terms we need to define more clearly are:
   the circle.  This is the beginning of the definition or explanation
   of "relationship".
 
-* Since everything is in flux, what's inside the circle is in
-  flux and what's outside of it is in flux. The circle itself is
-  also in flux.
+* Since everything is in flux, what's inside the circle is in flux and
+  what's outside of it is in flux. The circle itself is also in
+  flux. This, for the example of a circle denoting a human above,
+  implies that what is a human at one point in time is not the same
+  human at another point in time. In reality, there is no "self" that
+  remains the same for any human or any thing in the universe.
+
+* We may feel that we have a non-changing self, but that is an
+  illusion.
+
+* Consciousness is a process of "relationship" that is also in flux.
 
 * One question that arises is whether there are "levels" of
   consciousness, perhaps related to levels of complexity, or
