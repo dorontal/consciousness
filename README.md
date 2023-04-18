@@ -6,7 +6,7 @@ For a start, all thoughts, ideas, arguments are in this file.
 
 ## Theory of consciousness
 
-We start with the following axioms:
+Start with the following axioms:
 
 1. Every "thing" in the universe is "connected" to every other "thing"
 
