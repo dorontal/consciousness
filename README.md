@@ -48,13 +48,13 @@ terms we need to define more clearly are:
 
 ### Implications
 
-* One implication is that there are numerous such "circles" that can
-  be drawn.  Any combination/collection of things in the universe is
-  just another circle. Therefore, if there are infinitely many things
-  in the universe, there are infinitely many circles you can
-  draw. Even if there are finitely many things in the universe, the
-  number of collections you can form out of them is still a much
-  larger number than the number of things in the universe.
+* There are numerous such "circles" that can be drawn.  Any
+  combination/collection of things in the universe is just another
+  circle. Therefore, if there are infinitely many things in the
+  universe, there are infinitely many circles you can draw. Even if
+  there are finitely many things in the universe, the number of
+  collections you can form out of them is still a much larger number
+  than the number of things in the universe.
 
 * Anything you draw a circle around: a human, a stone, a circle that
   encompasses part of the human and part of a stone - is
