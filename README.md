@@ -46,7 +46,7 @@ terms we need to define more clearly are:
 
 * "relationship
 
-### Implications 
+### Implications
 
 * One implication is that there are numerous such "circles" that can
   be drawn.  Any combination/collection of things in the universe is
