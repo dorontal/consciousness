@@ -52,25 +52,30 @@ terms we need to define more clearly are:
 * One implication is that there are numerous such "circles" that can
   be drawn.  Any combination/collection of things in the universe is
   just another circle. Therefore, if there are infinitely many things
-  in the universe, there are infinitely many circles.
+  in the universe, there are infinitely many circles you can
+  draw. Even if there are finitely many things in the universe, the
+  number of collections you can form out of them is still a much
+  larger number than the number of things in the universe.
 
-* If there are finitely many things in the universe, the number of
-  collections you can form out of them is still a much larger number
-  than the number of things in the universe.
+* Anything you draw a circle around: a human, a stone, a circle that
+  encompasses part of the human and part of a stone - is
+  conscious. Everything you can define in the universe as a thing or a
+  collection of things is conscious.
 
-* A major implication is that anything you draw a circle around: a
-  human, a stone, a circle that encompasses part of the human and part
-  of a stone - is conscious. Everything is conscious.
-
-* Another implication is that our concept of a human is just a
-  concept, just one of the numeous (possibly infinite) many circles we
-  can draw.
+* A human is just one of many possible circles. If every circle is
+  conscious, then there is nothing special about the consciousness of
+  a human, or about the concept of a human - that's just one circle.
 
 * Since everything is in flux, what's inside the circle is in
-  flux. What's outside of it is in flux also. So the circle itself is
-  in flux.
+  flux, what's outside of it is in flux also. The circle itself is
+  not constant, it is in flux.
 
-* Whenever something outside of the circle changes, it causes a change
-  in every other thing, therefore, it causes a change in what's inside
-  the circle. This is the beginning of the definition or explanation
+* Due to the connectedness axiom, whenever some thing changes, it
+  causes a change in every other thing. So whenever something outside
+  of the circle changes, it causes a change in that which is inside
+  the circle.  This is the beginning of the definition or explanation
   of "relationship".
+
+* One question that arises is whether there are "levels" of
+  consciousness, perhaps related to levels of complexity, or
+  organization, or order in a system.
