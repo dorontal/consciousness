@@ -19,10 +19,10 @@ Now draw a "circle" around any collection of "things" in the universe.
 Here, a "circle" denotes any collection of things. Think of Venn
 diagrams: if the universe is one big circle, the circles we are
 referring to here are inside of it.  For example, take one collection
-of things to be the skin of some human and everything contained within
-the skin; call that collection a "human".  By 'consciousness of a
-human', then, we are referring to the consciousness of what's inside
-this circle.
+of things to be the skin of some specific human as it is right now,
+and include in your circle everything contained within the skin; call
+that collection a "human".  By 'consciousness of a human', then, we
+are referring to the consciousness of what's inside this circle.
 
 ### Consciousness is "relationship"
 
