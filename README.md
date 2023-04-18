@@ -25,7 +25,7 @@ this circle.
 Consciousness is "relationship" - between what's inside the circle and
 what's outside of it.
 
-Done. Well, almost.
+Done? Not quite:
 
 ### Further work needed
 
