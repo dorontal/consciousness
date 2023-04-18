@@ -66,8 +66,8 @@ terms we need to define more clearly are:
   a human, or about the concept of a human - that's just one circle.
 
 * Since everything is in flux, what's inside the circle is in
-  flux, what's outside of it is in flux also. The circle itself is
-  not constant, it is in flux.
+  flux and what's outside of it is in flux. The circle itself is
+  also is in flux.
 
 * Due to the connectedness axiom, whenever some thing changes, it
   causes a change in every other thing. So whenever something outside
