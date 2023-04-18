@@ -8,19 +8,17 @@ For a start, all thoughts, ideas, arguments are in this file.
 
 We start with the following axioms:
 
-1. Every "thing" in the universe is "connected"
+1. Every "thing" in the universe is "connected" to every other "thing"
 
 2. Every "thing" in the universe is in constant "flux" (the only thing
    that is constant in the universe is "flux", or "change")
 
-Now draw a "circle" around any collection of "things" in the universe.
-Here, a "circle" denotes any collection of things. Think of Venn
-diagrams: if the universe is one big circle, the circles we are
-referring to here are inside of it.  For example, take one collection
-of things to be the skin of some specific human as it is right now,
-and include in your circle everything contained within the skin; call
-that collection a "human".  By 'consciousness of a human', then, we
-are referring to the consciousness of what's inside this circle.
+Now draw a "circle" around any collection of "things". For example,
+take one collection of things to be the skin of some specific human as
+it is right now, and include in your circle everything contained
+within the skin; call that collection a "human".  By 'consciousness of
+a human', then, we are referring to the consciousness of what's inside
+this circle.
 
 ### Consciousness is "relationship"
 
