@@ -89,8 +89,7 @@ terms we need to define more clearly are:
 1. So far, this theory does not explain the difference between
    conscious and not conscious, e.g, the difference between
    consciousness present in a human who is awake and absent in a
-   human who is asleep. If everything is conscious, okay, but what
-   makes something not conscious?
+   human who is asleep. What makes something not conscious?
    * Who said "not conscious"? Just the fact that you don't remember
      what your sleep was like does not imply that you were not
      conscious then. If, as this theory holds, everything is
