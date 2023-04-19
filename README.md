@@ -90,12 +90,12 @@ terms we need to define more clearly are:
    conscious and not conscious, e.g, the difference between
    consciousness present in a human who is awake and absent in a
    human who is asleep. What makes something not conscious?
-   * Who said "not conscious"? Just the fact that you don't remember
-     what your sleep was like does not imply that you were not
-     conscious then. If, as this theory holds, everything is
-     conscious, every circle you draw, then there is no such thing as
-     "not conscious", in reality. Lack of consciousness is an
-     illusion. 
+   * Just the fact that one doesn't remember their mental states
+     during sleep does not imply that they were not conscious
+     then. If, as this theory holds, everything is conscious, every
+     circle you draw, then there is no such thing as "not
+     conscious". Lack of consciousness then might be some sort of
+     illusion.
      * Perhaps that illusion is related to memory and periodicity: you
        are conscious but you just can't remember that you are. Your
        memory of the conscious experience is wiped out so quickly
