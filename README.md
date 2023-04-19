@@ -86,8 +86,25 @@ terms we need to define more clearly are:
 
 ### Problems with this theory
 
-* **Big problem:** So far, this theory does not explain the difference
-  between conscious and not conscious, e.g, the difference between
-  consciousness being present in a human who is awake and absent in a
-  human who is asleep. If everything is conscious, okay, but what
-  makes something not conscious?
+1. So far, this theory does not explain the difference between
+   conscious and not conscious, e.g, the difference between
+   consciousness being present in a human who is awake and absent in a
+   human who is asleep. If everything is conscious, okay, but what
+   makes something not conscious?
+   * Who said "not conscious"? Just the fact that you don't remember
+     what your sleep was like does not imply that you were not
+     conscious then. If, as this theory holds, everything is
+     conscious, every circle you draw, then there is no such thing as
+     "not conscious", in reality. Lack of consciousness is an
+     illusion. 
+     * Perhaps that illusion is related to memory and periodicity: you
+       are conscious but you just can't remember that you are. Your
+       memory of the conscious experience is wiped out so quickly
+       before the next conscious moment, that you cannot hang on to
+       any of those moments - before you know it, there's another one.
+       This answer would require consciousness to be something that
+       arises and ceases very rapidly. This can be consistent with
+       "everything is connected", in this sense: when something in the
+       universe arises, it creates the conditions for a moment of
+       consciousness. When something in the universe ceases to exist,
+       the consciousness that arose when it arose also ceases.
