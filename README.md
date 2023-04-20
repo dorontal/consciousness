@@ -4,6 +4,14 @@ This file contains thoughts toward a theory of consciousness.
 
 For a start, all thoughts, ideas, arguments are in this file.
 
+#### Caveat
+
+All the ideas here are completely ad-hoc and arbitrary. This is just a
+game, at first, to see if a coherent theory can be concocted from a
+few ad-hoc assumptions that nonetheless resists some of the common
+problems with other theories of consciousness out there.
+
+
 ## Theory of consciousness
 
 Start with the following axioms:
