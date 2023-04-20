@@ -48,7 +48,7 @@ terms we need to define more clearly are:
 
 * "flux" (or "change")
 
-* "relationship
+* "relationship"
 
 ### Implications and related notes
 
