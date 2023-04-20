@@ -8,8 +8,8 @@ For a start, all thoughts, ideas, arguments are in this file.
 
 All the ideas here are completely ad-hoc and arbitrary. This is just a
 game, at first, to see if a coherent theory can be concocted from a
-few ad-hoc assumptions that nonetheless resists some of the common
-problems with other theories of consciousness out there.
+few ad-hoc assumptions, a theory that nonetheless resists some of the
+common problems with other theories of consciousness out there.
 
 
 ## Theory of consciousness
