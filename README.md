@@ -106,6 +106,18 @@ terms we need to define more clearly are:
    absent in a human who is asleep. What makes something not conscious
    or less conscious? How do we explain such distinctions? The theory
    about does not seem to be able to explain such differences.
+   * This theory does not even addresss the topic of "degrees of
+     consciousness". Under this theory, there is no reason for one
+     thing to be considered more conscious than another, there is no
+     difference between the consciousness of an atom and that of a
+     human. Consciousness is just that constantly changing
+     relationship between things inside the circle and outside of it.
+     One cannot quantify such relationships in the sense of saying
+     that there is more of a relationship in one collection of things
+     vs another. You could say that one collection of things is more
+     organized, has less entropy than another collection. But this
+     theory does not ascribe more consciousness to systems that are
+     more highly organized. 
    * Just the fact that one doesn't remember their mental states
      during sleep does not imply that they were not conscious
      then. If, as this theory holds, everything is conscious, every
