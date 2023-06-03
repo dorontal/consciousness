@@ -105,7 +105,9 @@ terms we need to define more clearly are:
    consciousness present in a human who is awake vs consciousness
    absent in a human who is asleep. What makes something not conscious
    or less conscious? How do we explain such distinctions? The theory
-   about does not seem to be able to explain such differences.
+   about does not seem to be able to explain such differences. In
+   fact, this theory says that everything is conscious.
+
    * This theory does not even addresss the topic of "degrees of
      consciousness". Under this theory, there is no reason for one
      thing to be considered more conscious than another, there is no
@@ -118,12 +120,14 @@ terms we need to define more clearly are:
      organized, has less entropy than another collection. But this
      theory does not ascribe more consciousness to systems that are
      more highly organized. 
+
    * Just the fact that one doesn't remember their mental states
      during sleep does not imply that they were not conscious
      then. If, as this theory holds, everything is conscious, every
      circle you draw, then there is no such thing as "not
      conscious". Lack of consciousness then might be some sort of
      illusion.
+
      * Perhaps that illusion is related to memory and periodicity: you
        were conscious but you just can't remember that you were. Your
        memory of the conscious experience is wiped out so quickly
