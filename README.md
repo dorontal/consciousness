@@ -129,17 +129,19 @@ terms we need to define more clearly are:
      then. If, as this theory holds, everything is conscious, every
      circle you draw, then there is no such thing as "not
      conscious". Lack of consciousness then might be some sort of
-     illusion.
+     illusion. Perhaps that illusion is related to memory: when you
+     were asleep you were conscious but you just can't remember that
+     you were.
 
-     * Perhaps that illusion is related to memory: when you were
-       asleep you were conscious but you just can't remember that you
-       were. Your memory of the conscious experience is wiped out so
-       quickly before the next conscious moment, that you cannot hang
-       on to any of those moments - before you know it, there's
-       another one.  This answer would require consciousness to be
-       something that arises and ceases very rapidly. This can be
-       consistent with "everything is connected", in this sense: when
-       something in the universe arises, it creates the conditions for
-       a moment of consciousness. When something in the universe
-       ceases to exist, the consciousness that arose when it arose
-       also ceases.
+
+<!--
+     Your memory of the conscious experience is wiped out so quickly
+       before the next conscious moment, that you cannot hang on to
+       any of those moments - before you know it, there's another one.
+       This answer would require consciousness to be something that
+       arises and ceases very rapidly. This can be consistent with
+       "everything is connected", in this sense: when something in the
+       universe arises, it creates the conditions for a moment of
+       consciousness. When something in the universe ceases to exist,
+       the consciousness that arose when it arose also ceases.
+-->
