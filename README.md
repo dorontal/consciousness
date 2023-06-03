@@ -52,7 +52,7 @@ terms we need to define more clearly are:
 
 ### Implications and related notes
 
-* There are numerous such "circles" that can be drawn.  Any
+* There are numerous "circles" that can be drawn.  Any
   combination/collection of things in the universe is just another
   circle. Therefore, if there are infinitely many things in the
   universe, there are infinitely many circles you can draw. Even if
@@ -60,14 +60,18 @@ terms we need to define more clearly are:
   collections you can form out of them is still a much larger number
   than the number of things in the universe.
 
-* Anything you draw a circle around: a human, a stone, a circle that
-  encompasses part of the human and part of a stone - is
-  conscious. Everything you can define in the universe as a thing or a
-  collection of things is conscious.
+* Implication: Anything you draw a circle around: a human, a stone, a
+  circle that encompasses part of the human and part of a stone - is
+  conscious, because it's going to have some relationship to the stuff
+  outside the circle. It's going to have some relationship to the
+  stuff outside the circle because everything is connected to
+  everything else. Therefore, things inside any circle you may draw
+  are always going to be connected to things outside the circle.
 
-* A human is just one of many possible circles. If every circle is
-  conscious, then there is nothing special about the consciousness of
-  a human, or about the concept of a human - that's just one circle.
+* A human is just one of many possible circles we can draw in the
+  universe. If every circle is conscious, then there is nothing
+  special about the consciousness of a human, or about the concept of
+  human consciousness.
 
 * Due to the connectedness axiom, whenever some thing changes, it
   causes a change in every other thing. So whenever something outside
@@ -77,27 +81,31 @@ terms we need to define more clearly are:
 
 * Since everything is in flux, what's inside the circle is in flux and
   what's outside of it is in flux. The circle itself is also in
-  flux. This, for the example of a circle denoting a human above,
-  implies that what is a human at one point in time is not the same
-  human at another point in time. In reality, there is no "self" that
-  remains the same for any human or any thing in the universe.
+  flux.
 
-* We may feel that we have a non-changing self, but that would have to
-  be an illusion.
+* Under these assumptions and axioms, everything you can define in the
+  universe as a thing or a collection of things is conscious.
 
-* Consciousness is a process of "relationship" that is also in flux.
+* "Everthing in flux" implies no self. The concept of self requires
+  there to be no flux: "self" implies something that does not change
+  in time.  We may feel that we have a non-changing self, but that
+  would have to be an illusion.
+
+* Consciousness is a process of "relationship" - relationship that is
+  also in flux.
 
 * One question that arises is whether there are "levels" of
   consciousness, perhaps related to levels of complexity, or
-  organization, or order in a system.
-
+  organization of the system, or to entropy in a system.
 
 ### Problems with this theory
 
 1. So far, this theory does not explain the difference between
    conscious and not conscious, e.g, the difference between
-   consciousness present in a human who is awake and absent in a
-   human who is asleep. What makes something not conscious?
+   consciousness present in a human who is awake vs consciousness
+   absent in a human who is asleep. What makes something not conscious
+   or less conscious? How do we explain such distinctions? The theory
+   about does not seem to be able to explain such differences.
    * Just the fact that one doesn't remember their mental states
      during sleep does not imply that they were not conscious
      then. If, as this theory holds, everything is conscious, every
@@ -105,7 +113,7 @@ terms we need to define more clearly are:
      conscious". Lack of consciousness then might be some sort of
      illusion.
      * Perhaps that illusion is related to memory and periodicity: you
-       are conscious but you just can't remember that you are. Your
+       were conscious but you just can't remember that you were. Your
        memory of the conscious experience is wiped out so quickly
        before the next conscious moment, that you cannot hang on to
        any of those moments - before you know it, there's another one.
