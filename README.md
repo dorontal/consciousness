@@ -119,7 +119,10 @@ terms we need to define more clearly are:
      vs another. You could say that one collection of things is more
      organized, has less entropy than another collection. But this
      theory does not ascribe more consciousness to systems that are
-     more highly organized. 
+     more highly organized. Such systems are still just a collection
+     of things and the things in the collection will be connected to
+     all things in and out of the collection and it is that connection
+     or relationship that emobdies the consciousness of the system.
 
    * Just the fact that one doesn't remember their mental states
      during sleep does not imply that they were not conscious
