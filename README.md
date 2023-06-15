@@ -52,6 +52,9 @@ terms we need to define more clearly are:
 
 ### Implications and related notes
 
+* By "circle" we don't literally mean a 2D circle, just any collection
+  of things
+
 * There are numerous "circles" that can be drawn.  Any
   combination/collection of things in the universe is just another
   circle. Therefore, if there are infinitely many things in the
@@ -59,9 +62,6 @@ terms we need to define more clearly are:
   there are finitely many things in the universe, the number of
   collections you can form out of them is still a much larger number
   than the number of things in the universe.
-
-* By "circle" we don't literally mean a 2D circle, just any collection
-  of things
 
 * Implication: Anything you draw a circle around: a human, a stone, a
   circle that encompasses part of the human and part of a stone - is
