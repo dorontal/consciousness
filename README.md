@@ -60,6 +60,9 @@ terms we need to define more clearly are:
   collections you can form out of them is still a much larger number
   than the number of things in the universe.
 
+* By "circle" we don't literally mean a 2D circle, just any collection
+  of things
+
 * Implication: Anything you draw a circle around: a human, a stone, a
   circle that encompasses part of the human and part of a stone - is
   conscious, because it's going to have some relationship to the stuff
@@ -104,9 +107,10 @@ terms we need to define more clearly are:
    conscious and not conscious, e.g, the difference between
    consciousness present in a human who is awake vs consciousness
    absent in a human who is asleep. What makes something not conscious
-   or less conscious? How do we explain such distinctions? The theory
-   about does not seem to be able to explain such differences. In
-   fact, this theory says that everything is conscious.
+   or less conscious? How do we explain such distinctions? This theory
+   does not explain such differences, it says that everything is
+   conscious but does not mention whether anything is more conscious
+   than any other. 
 
    * This theory does not even addresss the topic of "degrees of
      consciousness". Under this theory, there is no reason for one
