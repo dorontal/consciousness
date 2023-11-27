@@ -1,25 +1,40 @@
 # consciousness/README.md
 
+
+## Introduction
+
 This file contains thoughts toward a theory of consciousness.
 
-For a start, all thoughts, ideas, arguments are in this file.
+By 'consciousness' here we mean 'the subjective character of
+experience', or 'qualia', or 'what is it like to ...', or 'awareness'.
+Hopefully, this is a sufficient preliminary description of what we're
+trying to "explain" here. 
 
-#### Caveat
 
-All of the ideas here are completely ad-hoc and arbitrary. This is
-just a game, at first, to see if a coherent theory can be concocted
-from a few ad-hoc assumptions, a theory that nonetheless resists some
-of the common problems with other theories of consciousness out there.
+#### Caveats
+
+1) It's likely that under some basic definition such as the above,
+most if not all humans would know what the word 'consciousness' refers
+to. We can refer to it. Perhaps we cannot explain it any further than that.
+
+2) All of the ideas here are completely ad-hoc, arbitrary. This is
+just a game, to see first if a coherent theory can be concocted from a
+few ad-hoc assumptions, a theory that can resist some of the common
+problems with theories of consciousness.
 
 
 ## Theory of consciousness
 
 Start with the following axioms:
 
-1. Every "thing" in the universe is "connected" to every other "thing"
+1. Every "thing" in the universe is in constant "flux" (the only thing
+   that is constant in the universe is "flux", or "change", itself)
 
-2. Every "thing" in the universe is in constant "flux" (the only thing
-   that is constant in the universe is "flux", or "change")
+2. Every "thing" in the universe is "connected" to every other
+   "thing", causally, in this sense: for something to be born it has
+   to be born out of something else, nothing comes into being on its
+   own, everything is interconnected causally in the sense that
+   everything is born because something else is born - if this then that
 
 Now draw a "circle" around any collection of "things". For example,
 take one collection of things to be the skin of some specific human as
