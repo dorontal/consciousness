@@ -30,11 +30,10 @@ Start with the following axioms:
 1. Every "thing" in the universe is in constant "flux" (the only thing
    that is constant in the universe is "flux", or "change", itself)
 
-2. Every "thing" in the universe is "connected" to every other
-   "thing", causally, in this sense: for something to be born it has
-   to be born out of something else, nothing comes into being on its
-   own, everything is interconnected causally in the sense that
-   everything is born because something else is born - if this then that
+2. Every "thing" in the universe is "connected" with a set of other
+   "things"every other, causally, in the sense that every thing
+   arises because another thing has arisen - if this then that,
+   Idappaccayatā.
 
 Now draw a "circle" around any collection of "things". For example,
 take one collection of things to be the skin of some specific human as
@@ -47,6 +46,14 @@ this circle.
 
 Consciousness is "relationship" - between what's inside the circle and
 what's outside of it.
+
+If something outside the circle changes and that causes something inside
+the circle to change as well, then this is what we mean by relationship:
+some correspondence, some Idappaccayatā between what's inside the circle
+and what's outside of it. That is awareness which is consciousness. This
+is what it means to be aware: (a) it assumes this circle, e.g, my
+physical body; (b) it assumes there's some Idappaccayatā going on
+between what's inside the circle and things outside of the circle.
 
 Done? Not quite:
 
@@ -92,7 +99,9 @@ terms we need to define more clearly are:
   human consciousness.
 
 * Due to the connectedness axiom, whenever some thing changes, it
-  causes a change in every other thing. So whenever something outside
+  causes a change in every other thing, in the fully connected model,
+  or at least in a subset of things, in the partially connected
+  model. So whenever something outside
   of the circle changes, it causes a change in that which is inside
   the circle.  This is the beginning of the definition or explanation
   of "relationship".
