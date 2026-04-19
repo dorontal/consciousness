@@ -10,17 +10,12 @@ experience, or 'qualia', or 'what is it like to experience X'.
 Hopefully, this is a sufficient preliminary definition for this
 discussion.
 
-#### Caveats
+#### Caveat
 
-1) It's likely that under some basic definition such as the above,
-most if not all humans would know what the word 'consciousness' refers
-to. We can refer to it. Perhaps we cannot explain it any further than that.
-
-2) All of the ideas here are completely ad-hoc, arbitrary. This is
+The ideas expressed here are completely ad-hoc and arbitrary. This is
 just a game, to see first if a coherent theory can be concocted from a
-few ad-hoc assumptions, a theory that can resist some of the common
-problems with theories of consciousness.
-
+few ad-hoc axioms, a theory that can resist some of the common
+problems with other theories of consciousness, perhaps.
 
 ## Axioms
 
