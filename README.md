@@ -5,11 +5,10 @@
 
 This file contains thoughts toward a theory of consciousness.
 
-By 'consciousness' here we mean 'the subjective character of
-experience', or 'qualia', or 'what is it like to ...', or 'awareness'.
-Hopefully, this is a sufficient preliminary description of what we're
-trying to "explain" here. 
-
+'Consciousness' here means the subjective character of
+experience, or 'qualia', or 'what is it like to experience X'.
+Hopefully, this is a sufficient preliminary definition for this
+discussion.
 
 #### Caveats
 
@@ -23,7 +22,7 @@ few ad-hoc assumptions, a theory that can resist some of the common
 problems with theories of consciousness.
 
 
-## Theory of consciousness
+## Axioms
 
 Start with the following axioms:
 
@@ -36,45 +35,30 @@ Start with the following axioms:
    existence, and dies when that other thing dies (if this then that,
    or the principle of conditionality, aka "Idappaccayatā").
 
-### Consciousness is "relationship"
+## Consciousness is "relationship" - a relational process
 
-Take any collection of things i nthe universe.
+Take any collection of things in the universe.
 
 Consciousness is "relationship" - between this collection of things
-and any other thing(s).
+and other thing(s).
 
 If something not in the collection changes such that something in the 
-collection changes, then this is what we mean by relationship. 
+collection changes as a result, then there is a "relationship" between
+the collection and other things.
 
-* Implication: Any collection of things in the universe is conscious,
-  unless changes to things not in the collection never cause a change
-  in things that are in the collection.
+Since every thing is in flux, it follows that relationships are all
+in flux - they are a process.
 
-* Under the axioms above, everything you can define in the
-  universe as a thing or a collection of things is conscious.
-
-* Consciousness is a process of "relationship" - relationship that is
-  also in flux.
-
-* One question that arises is whether there are "levels" of
-  consciousness, perhaps related to levels of complexity, or
-  organization of a collection, or to entropy in the collection
-  (system).
+Under this definition, due to the two axioms above, any collection of 
+things in the universe is conscious, unless changes to things not in 
+the collection never cause a change in things that are in the 
+collection - but that is not possible because of axiom 2 - all things
+are connected to other things - and axiom 1 - all things are in flux.
 
 ### Problems with this theory
 
-* This theory does not even addresss the topic of "degrees of
-  consciousness". Under this theory, there is no reason for one
-  thing to be considered more conscious than another, there is no
-  difference between the consciousness of an atom and that of a
-  human. Consciousness is just that constantly changing
-  relationship between things inside the circle and outside of it.
-  One cannot quantify such relationships in the sense of saying
-  that there is more of a relationship in one collection of things
-  vs another. You could say that one collection of things is more
-  organized, has less entropy than another collection. But this
-  theory does not ascribe more consciousness to systems that are
-  more highly organized. Such systems are still just a collection
-  of things and the things in the collection will be connected to
-  all things in and out of the collection and it is that connection
-  or relationship that emobdies the consciousness of the system.
+* This theory does not adress the question of whether "degrees of
+  consciousness" are possible. Under this theory, there is no reason
+  for one thing to be considered more conscious than another, there is
+  no difference between the consciousness of an atom, a stone and that
+  of a human being.
